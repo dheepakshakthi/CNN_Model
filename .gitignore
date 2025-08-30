@@ -216,3 +216,5 @@ cuda-keyring_1.1-1_all.deb
 tfcnn
 output_video_onnx.mp4
 tf_CNN_FM.ipynb
+tf_CNN3.ipynb
+model.py
